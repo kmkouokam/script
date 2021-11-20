@@ -3,3 +3,4 @@
 uname
 free -m
 iostat
+uptime
